@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quote</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">Share your daily quote with friends and family!</string>
+    <string name="message_empty_favorite">No favorite quote</string>
+
+    <!-- Begin - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">Home</string>
+    <string name="mn_favorite">Favorite</string>
+    <string name="mn_profile">Profile</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">Update Profile</string>
+    <string name="profile_mn_themeMode">Theme Mode</string>
+    <string name="profile_mn_quoteStyle">Quote style</string>
+    <string name="profile_mn_quoteStyleDescription">Show card or list style</string>
+    <string name="profile_mn_language">Language</string>
+    <string name="profile_mn_clearData">Clear data</string>
+    <string name="profile_mn_clearDataDescription">Remove cached data</string>
+    <string name="profile_mn_share">Share</string>
+    <string name="profile_mn_privacyPolicy">Privacy policy</string>
+    <string name="profile_mn_about">About</string>
+    <string name="profile_mn_version">Version %s</string>
+    <string name="profile_dl_clearCacheTitle">Clear cache?</string>
+    <string name="profile_dl_clearCacheTitleDescription">All local data will be clear</string>
+    <string name="profile_dl_clearCacheConfirm">Clear cache</string>
+    <string name="profile_dl_clearCacheCancel">Cancel</string>
+    <!-- End - Profile Menu -->
+
+</resources>

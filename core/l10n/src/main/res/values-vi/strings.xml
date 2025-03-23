@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Trích dẫn</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">Chia sẻ trích dẫn hàng ngày của bạn với bạn bè và gia đình!</string>
+    <string name="message_empty_favorite">Không có trích dẫn yêu thích</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">Trang chủ</string>
+    <string name="mn_favorite">Yêu thích</string>
+    <string name="mn_profile">Hồ sơ</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">Cập nhật hồ sơ</string>
+    <string name="profile_mn_themeMode">Chế độ chủ đề</string>
+    <string name="profile_mn_quoteStyle">Kiểu trích dẫn</string>
+    <string name="profile_mn_quoteStyleDescription">Hiển thị kiểu thẻ hoặc danh sách</string>
+    <string name="profile_mn_language">Ngôn ngữ</string>
+    <string name="profile_mn_clearData">Xóa dữ liệu</string>
+    <string name="profile_mn_clearDataDescription">Xóa dữ liệu bộ nhớ đệm</string>
+    <string name="profile_mn_share">Chia sẻ</string>
+    <string name="profile_mn_privacyPolicy">Chính sách bảo mật</string>
+    <string name="profile_mn_about">Giới thiệu</string>
+    <string name="profile_mn_version">Phiên bản %s</string>
+    <string name="profile_dl_clearCacheTitle">Xóa bộ nhớ đệm?</string>
+    <string name="profile_dl_clearCacheTitleDescription">Tất cả dữ liệu cục bộ sẽ bị xóa</string>
+    <string name="profile_dl_clearCacheConfirm">Xóa bộ nhớ đệm</string>
+    <string name="profile_dl_clearCacheCancel">Hủy</string>
+    <!-- End - Profile Menu -->
+</resources>

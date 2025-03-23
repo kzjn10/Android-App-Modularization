@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Citation</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">Partagez votre citation quotidienne avec vos amis et votre famille !</string>
+    <string name="message_empty_favorite">Aucune citation favorite</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">Accueil</string>
+    <string name="mn_favorite">Favoris</string>
+    <string name="mn_profile">Profil</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">Mettre à jour le profil</string>
+    <string name="profile_mn_themeMode">Mode thème</string>
+    <string name="profile_mn_quoteStyle">Style de citation</string>
+    <string name="profile_mn_quoteStyleDescription">Afficher le style carte ou liste</string>
+    <string name="profile_mn_language">Langue</string>
+    <string name="profile_mn_clearData">Effacer les données</string>
+    <string name="profile_mn_clearDataDescription">Supprimer les données en cache</string>
+    <string name="profile_mn_share">Partager</string>
+    <string name="profile_mn_privacyPolicy">Politique de confidentialité</string>
+    <string name="profile_mn_about">À propos</string>
+    <string name="profile_mn_version">Version %s</string>
+    <string name="profile_dl_clearCacheTitle">Vider le cache ?</string>
+    <string name="profile_dl_clearCacheTitleDescription">Toutes les données locales seront supprimées</string>
+    <string name="profile_dl_clearCacheConfirm">Vider le cache</string>
+    <string name="profile_dl_clearCacheCancel">Annuler</string>
+    <!-- End - Profile Menu -->
+</resources>

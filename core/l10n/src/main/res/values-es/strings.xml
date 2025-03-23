@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cita</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">¡Comparte tu cita diaria con amigos y familia!</string>
+    <string name="message_empty_favorite">No hay citas favoritas</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">Inicio</string>
+    <string name="mn_favorite">Favoritos</string>
+    <string name="mn_profile">Perfil</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">Actualizar perfil</string>
+    <string name="profile_mn_themeMode">Modo de tema</string>
+    <string name="profile_mn_quoteStyle">Estilo de cita</string>
+    <string name="profile_mn_quoteStyleDescription">Mostrar estilo de tarjeta o lista</string>
+    <string name="profile_mn_language">Idioma</string>
+    <string name="profile_mn_clearData">Borrar datos</string>
+    <string name="profile_mn_clearDataDescription">Eliminar datos en caché</string>
+    <string name="profile_mn_share">Compartir</string>
+    <string name="profile_mn_privacyPolicy">Política de privacidad</string>
+    <string name="profile_mn_about">Acerca de</string>
+    <string name="profile_mn_version">Versión %s</string>
+    <string name="profile_dl_clearCacheTitle">¿Borrar caché?</string>
+    <string name="profile_dl_clearCacheTitleDescription">Todos los datos locales serán borrados</string>
+    <string name="profile_dl_clearCacheConfirm">Borrar caché</string>
+    <string name="profile_dl_clearCacheCancel">Cancelar</string>
+    <!-- End - Profile Menu -->
+</resources>

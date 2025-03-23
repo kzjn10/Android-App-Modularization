@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Цитата</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">Поделитесь ежедневной цитатой с друзьями и семьей!</string>
+    <string name="message_empty_favorite">Нет избранных цитат</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">Главная</string>
+    <string name="mn_favorite">Избранное</string>
+    <string name="mn_profile">Профиль</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">Обновить профиль</string>
+    <string name="profile_mn_themeMode">Режим темы</string>
+    <string name="profile_mn_quoteStyle">Стиль цитаты</string>
+    <string name="profile_mn_quoteStyleDescription">Показать стиль карточки или списка</string>
+    <string name="profile_mn_language">Язык</string>
+    <string name="profile_mn_clearData">Очистить данные</string>
+    <string name="profile_mn_clearDataDescription">Удалить кэшированные данные</string>
+    <string name="profile_mn_share">Поделиться</string>
+    <string name="profile_mn_privacyPolicy">Политика конфиденциальности</string>
+    <string name="profile_mn_about">О приложении</string>
+    <string name="profile_mn_version">Версия %s</string>
+    <string name="profile_dl_clearCacheTitle">Очистить кэш?</string>
+    <string name="profile_dl_clearCacheTitleDescription">Все локальные данные будут удалены</string>
+    <string name="profile_dl_clearCacheConfirm">Очистить кэш</string>
+    <string name="profile_dl_clearCacheCancel">Отмена</string>
+    <!-- End - Profile Menu -->
+</resources>

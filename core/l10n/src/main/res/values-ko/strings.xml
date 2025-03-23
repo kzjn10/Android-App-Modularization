@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">인용구</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">친구 및 가족과 일일 인용구를 공유하세요!</string>
+    <string name="message_empty_favorite">즐겨찾기 인용구 없음</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">홈</string>
+    <string name="mn_favorite">즐겨찾기</string>
+    <string name="mn_profile">프로필</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">프로필 업데이트</string>
+    <string name="profile_mn_themeMode">테마 모드</string>
+    <string name="profile_mn_quoteStyle">인용구 스타일</string>
+    <string name="profile_mn_quoteStyleDescription">카드 또는 리스트 스타일 표시</string>
+    <string name="profile_mn_language">언어</string>
+    <string name="profile_mn_clearData">데이터 지우기</string>
+    <string name="profile_mn_clearDataDescription">캐시 데이터 제거</string>
+    <string name="profile_mn_share">공유</string>
+    <string name="profile_mn_privacyPolicy">개인정보 보호정책</string>
+    <string name="profile_mn_about">정보</string>
+    <string name="profile_mn_version">버전 %s</string>
+    <string name="profile_dl_clearCacheTitle">캐시 지우기?</string>
+    <string name="profile_dl_clearCacheTitleDescription">모든 로컬 데이터가 지워집니다</string>
+    <string name="profile_dl_clearCacheConfirm">캐시 지우기</string>
+    <string name="profile_dl_clearCacheCancel">취소</string>
+    <!-- End - Profile Menu -->
+</resources>

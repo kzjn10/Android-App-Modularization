@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_padding_horizontal">16dp</dimen>
+    <dimen name="item_padding_vertical">8dp</dimen>
+    <dimen name="avatar_size">64dp</dimen>
+    <dimen name="avatar_corner_radius">4dp</dimen>
+    <dimen name="avatar_margin_end">16dp</dimen>
+    <dimen name="line_spacing">2dp</dimen>
+    <dimen name="shimmer_line_spacing">4dp</dimen>
+    <dimen name="shimmer_desc_width">100dp</dimen>
+    <dimen name="shimmer_title_height">12dp</dimen>
+    <dimen name="shimmer_desc_height">8dp</dimen>
+
+    <!--SWIPABLE CARD-->
+    <dimen name="swc_width">12dp</dimen>
+    <dimen name="swc_height">12dp</dimen>
+    <dimen name="swc_padding">32dp</dimen>
+    <dimen name="swc_elevation">8dp</dimen>
+    <dimen name="swc_icon_size">104dp</dimen>
+    <dimen name="swc_icon_rotate">180fdp</dimen>
+
+</resources>

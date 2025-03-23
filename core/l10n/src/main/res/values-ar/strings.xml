@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">اقتباس</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">شارك اقتباسك اليومي مع الأصدقاء والعائلة!</string>
+    <string name="message_empty_favorite">لا يوجد اقتباس مفضل</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">الرئيسية</string>
+    <string name="mn_favorite">المفضلة</string>
+    <string name="mn_profile">الملف الشخصي</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">تحديث الملف الشخصي</string>
+    <string name="profile_mn_themeMode">وضع الثيم</string>
+    <string name="profile_mn_quoteStyle">أسلوب الاقتباس</string>
+    <string name="profile_mn_quoteStyleDescription">عرض نمط البطاقة أو القائمة</string>
+    <string name="profile_mn_language">اللغة</string>
+    <string name="profile_mn_clearData">مسح البيانات</string>
+    <string name="profile_mn_clearDataDescription">إزالة البيانات المخزنة مؤقتًا</string>
+    <string name="profile_mn_share">مشاركة</string>
+    <string name="profile_mn_privacyPolicy">سياسة الخصوصية</string>
+    <string name="profile_mn_about">حول</string>
+    <string name="profile_mn_version">الإصدار %s</string>
+    <string name="profile_dl_clearCacheTitle">مسح الذاكرة المؤقتة؟</string>
+    <string name="profile_dl_clearCacheTitleDescription">سيتم مسح جميع البيانات المحلية</string>
+    <string name="profile_dl_clearCacheConfirm">مسح الذاكرة المؤقتة</string>
+    <string name="profile_dl_clearCacheCancel">إلغاء</string>
+    <!-- End - Profile Menu -->
+</resources>

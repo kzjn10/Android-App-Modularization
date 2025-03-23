@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">引用</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">毎日の引用を友達や家族と共有しましょう！</string>
+    <string name="message_empty_favorite">お気に入りの引用がありません</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">ホーム</string>
+    <string name="mn_favorite">お気に入り</string>
+    <string name="mn_profile">プロフィール</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">プロフィールを更新</string>
+    <string name="profile_mn_themeMode">テーマモード</string>
+    <string name="profile_mn_quoteStyle">引用のスタイル</string>
+    <string name="profile_mn_quoteStyleDescription">カードまたはリストスタイルを表示</string>
+    <string name="profile_mn_language">言語</string>
+    <string name="profile_mn_clearData">データをクリア</string>
+    <string name="profile_mn_clearDataDescription">キャッシュデータを削除</string>
+    <string name="profile_mn_share">共有</string>
+    <string name="profile_mn_privacyPolicy">プライバシーポリシー</string>
+    <string name="profile_mn_about">について</string>
+    <string name="profile_mn_version">バージョン %s</string>
+    <string name="profile_dl_clearCacheTitle">キャッシュをクリアしますか？</string>
+    <string name="profile_dl_clearCacheTitleDescription">すべてのローカルデータがクリアされます</string>
+    <string name="profile_dl_clearCacheConfirm">キャッシュをクリア</string>
+    <string name="profile_dl_clearCacheCancel">キャンセル</string>
+    <!-- End - Profile Menu -->
+</resources>

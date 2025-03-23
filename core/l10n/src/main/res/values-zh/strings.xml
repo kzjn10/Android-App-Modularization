@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">引言</string>
+
+    <!-- Begin - Common -->
+    <string name="message_share">与朋友和家人分享你的每日引言！</string>
+    <string name="message_empty_favorite">没有收藏的引言</string>
+    <!-- End - Common -->
+
+    <!-- Begin - Home Menu -->
+    <string name="mn_home">首页</string>
+    <string name="mn_favorite">收藏</string>
+    <string name="mn_profile">个人资料</string>
+    <!-- End - Home Menu -->
+
+    <!-- Begin - Profile Menu -->
+    <string name="profile_mn_updateProfile">更新个人资料</string>
+    <string name="profile_mn_themeMode">主题模式</string>
+    <string name="profile_mn_quoteStyle">引言样式</string>
+    <string name="profile_mn_quoteStyleDescription">显示卡片或列表样式</string>
+    <string name="profile_mn_language">语言</string>
+    <string name="profile_mn_clearData">清除数据</string>
+    <string name="profile_mn_clearDataDescription">删除缓存数据</string>
+    <string name="profile_mn_share">分享</string>
+    <string name="profile_mn_privacyPolicy">隐私政策</string>
+    <string name="profile_mn_about">关于</string>
+    <string name="profile_mn_version">版本 %s</string>
+    <string name="profile_dl_clearCacheTitle">清除缓存？</string>
+    <string name="profile_dl_clearCacheTitleDescription">所有本地数据将被清除</string>
+    <string name="profile_dl_clearCacheConfirm">清除缓存</string>
+    <string name="profile_dl_clearCacheCancel">取消</string>
+    <!-- End - Profile Menu -->
+</resources>
