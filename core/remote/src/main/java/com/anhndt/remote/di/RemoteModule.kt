@@ -14,7 +14,6 @@ import javax.inject.Singleton
 object RemoteModule {
 
     @Provides
-    @Singleton
     fun provideQuoteRepository(quoteApi: QuoteApi): QuoteRepository {
         return QuoteRepositoryImpl(quoteApi)
     }

@@ -2,6 +2,7 @@
 
 package com.anhndt.quotes.ui.view
 
+import android.util.Log
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -42,6 +43,7 @@ import com.anhndt.designsystem.components.errorcard.ErrorCard
 import com.anhndt.designsystem.components.loadingcard.LoadingCard
 import com.anhndt.designsystem.components.swipablecard.SwipeableCard
 import com.anhndt.model.Quote
+import com.anhndt.quotes.ui.state.CardStyle
 import com.anhndt.quotes.ui.state.QuoteListState
 import com.anhndt.quotes.ui.view.components.QuoteItem
 import com.anhndt.quotes.ui.view.components.QuoteLoadingItem
@@ -234,11 +236,14 @@ fun QuoteCardUI(
         val (quote, content) = createRefs()
 
         Text(
-            modifier = Modifier.constrainAs(quote) {
-                top.linkTo(parent.top, margin = 16.dp)
-                start.linkTo(parent.start, margin = 32.dp)
-                end.linkTo(parent.end)
-            }.alpha(0.4f).fillMaxWidth(),
+            modifier = Modifier
+                .constrainAs(quote) {
+                    top.linkTo(parent.top, margin = 16.dp)
+                    start.linkTo(parent.start, margin = 32.dp)
+                    end.linkTo(parent.end)
+                }
+                .alpha(0.4f)
+                .fillMaxWidth(),
             text = stringResource(com.anhndt.l10n.R.string.app_name),
             style = MaterialTheme.typography.displayLarge
         )

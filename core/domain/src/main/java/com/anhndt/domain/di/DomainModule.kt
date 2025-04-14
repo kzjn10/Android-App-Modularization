@@ -19,7 +19,6 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object DomainModule {
     @Provides
-    @Singleton
     fun provideGetQuoteUseCase(
         quoteRepository: QuoteRepository,
         quoteLocalRepository: QuoteLocalRepository,
@@ -28,7 +27,6 @@ object DomainModule {
     }
 
     @Provides
-    @Singleton
     fun provideGetConfigUseCase(
         settingLocalRepository: SettingLocalRepository
     ): GetConfigUseCase {
@@ -37,7 +35,6 @@ object DomainModule {
 
 
     @Provides
-    @Singleton
     fun provideSetConfigUseCase(
         settingLocalRepository: SettingLocalRepository,
         quoteLocalRepository: QuoteLocalRepository

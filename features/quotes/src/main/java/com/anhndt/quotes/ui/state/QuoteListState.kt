@@ -8,3 +8,9 @@ sealed class QuoteListState {
     data class Error(val message: String) : QuoteListState()
 
 }
+
+enum class CardStyle(style:Int) {
+    Horizontal(1),
+    Vertical(2)
+}
+

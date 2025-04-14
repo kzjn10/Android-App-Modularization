@@ -80,9 +80,8 @@ class QuotesViewModel @Inject constructor(
         }
     }
 
-
-    override fun onPause(owner: LifecycleOwner) {
+    override fun onCleared() {
         getQuotesJob?.cancel()
-        super.onPause(owner)
+        super.onCleared()
     }
 }

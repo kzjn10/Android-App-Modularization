@@ -18,7 +18,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-
         setContent {
             val viewModel: MainViewModel = hiltViewModel()
             val appConfig by viewModel.appConfig.collectAsStateWithLifecycle()

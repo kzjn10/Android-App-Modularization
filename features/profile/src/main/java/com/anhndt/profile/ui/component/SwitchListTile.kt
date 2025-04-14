@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
+import androidx.constraintlayout.compose.Dimension
 
 @Composable
 fun SwitchListTile(
@@ -66,7 +67,7 @@ fun SwitchListTile(
                 bottom.linkTo(parent.bottom)
                 start.linkTo(icon.end, margin = iconTitleSpacing)
                 end.linkTo(switch.start)
-                width = androidx.constraintlayout.compose.Dimension.fillToConstraints
+                width = Dimension.fillToConstraints
             }) {
                 // Title
                 Text(
